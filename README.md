@@ -1,6 +1,6 @@
 Hi, I’m @Sonuq
 
-I know Python, a little Javascript, a little Lua and also C#
+I know Python, a little Javascript, a little Lua and also C#\n
 I’m currently learning C++ 
 You can contact me throught Discord or Protonmail
 sonuq@protonmail.com
