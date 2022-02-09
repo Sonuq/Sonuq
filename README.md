@@ -1,7 +1,11 @@
 Hi, I’m @Sonuq
 
-- I know Python, a little Javascript, a little Lua and also C#
-- I’m currently learning C++ 
+- I have experience with Python & Lua
+- I been learning Rust & C
+- I don't post most of my code here, I will start posting some of my code though. 
+
+If you want to contact me for any miscellaneous
+  Email : sonuq@protonmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonuq&show_icons=true&theme=tokyonight)
 
