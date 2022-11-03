@@ -1,7 +1,7 @@
 Hi, I’m @Sonuq
 
 - I have experience with Python & Lua
-- I been learning Rust & C
+- I been learning Rust, C and Rust
 - I don't post most of my code here, I will start posting some of my code though. 
 
 If you want to contact me for any miscellaneous reason
